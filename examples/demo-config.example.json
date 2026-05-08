@@ -1,0 +1,17 @@
+{
+  "product": "DiamOps",
+  "mode": "public-showcase",
+  "data_policy": "fake-demo-data-only",
+  "enabled_demo_sections": [
+    "ticket_workflow",
+    "evidence_review",
+    "proof_report"
+  ],
+  "disabled_public_sections": [
+    "admin",
+    "deployment",
+    "private_analytics",
+    "internal_ai"
+  ]
+}
+
