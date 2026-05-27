@@ -1,60 +1,20 @@
 # Route Health Summary
 
-| Path |Area |Auth |Status |Result |
-| --- |--- |--- |--- |--- |
-| / |public |public |200 |ok |
-| /pricing |billing |public |200 |ok |
-| /enterprise |public |public |200 |ok |
-| /login |auth |public |200 |ok |
-| /signup |auth |public |200 |ok |
-| /health |system |public |200 |ok |
-| /dashboard |workspace |learner |200 |ok |
-| /start |onboarding |learner |200 |ok |
-| /tickets |tickets |learner |200 |ok |
-| /proof |proof |learner |200 |ok |
-| /portfolio |portfolio |learner |200 |ok |
-| /portfolio/export |portfolio |learner |200 |ok |
-| /labs |labs |learner |200 |ok |
-| /performance |analytics |learner |200 |ok |
-| /upgrade |billing |learner |200 |ok |
-| /billing/success |stripe |learner |200 |ok |
-| /billing/cancel |stripe |learner |200 |ok |
-| / |public |public |200 |ok |
-| /pricing |billing |public |200 |ok |
-| /login |auth |public |200 |ok |
-| /dashboard |workspace |learner |200 |ok |
-| /tickets |tickets |learner |200 |ok |
-| /proof |proof |learner |200 |ok |
-| / |public |public |200 |ok |
-| /pricing |billing |public |200 |ok |
-| /login |auth |public |200 |ok |
-| /dashboard |workspace |learner |200 |ok |
-| /tickets |tickets |learner |200 |ok |
-| /proof |proof |learner |200 |ok |
-| / |public |public |200 |ok |
-| /pricing |billing |public |200 |ok |
-| /login |auth |public |200 |ok |
-| /dashboard |workspace |learner |200 |ok |
-| /tickets |tickets |learner |200 |ok |
-| /proof |proof |learner |200 |ok |
-| / |public |public |200 |ok |
-| /pricing |billing |public |200 |ok |
-| /login |auth |public |200 |ok |
-| /dashboard |workspace |learner |200 |ok |
-| /tickets |tickets |learner |200 |ok |
-| /proof |proof |learner |200 |ok |
-| / |public |public |200 |ok |
-| /pricing |billing |public |200 |ok |
-| /login |auth |public |200 |ok |
-| /dashboard |workspace |learner |200 |ok |
-| /tickets |tickets |learner |200 |ok |
-| /proof |proof |learner |200 |ok |
-| / |public |public |200 |ok |
-| /pricing |billing |public |200 |ok |
-| /login |auth |public |200 |ok |
-| /dashboard |workspace |learner |200 |ok |
-| /tickets |tickets |learner |200 |ok |
-| /proof |proof |learner |200 |ok |
-| /billing/checkout/pro?interval=monthly |stripe |learner |302 |ok |
-| /billing/checkout/pro?interval=annual |stripe |learner |302 |ok |
-| /billing/portal |stripe |learner |302 |ok |
+Status: pass
+Routes checked: 58
+Public routes represented in curated showcase: 10
+
+The public showcase keeps representative screenshots rather than one image per route. Route validation remains represented through this summary and the Sentinel manifest.
+
+## Represented Routes
+
+- /
+- /pricing
+- /enterprise
+- /login
+- /dashboard
+- /labs
+- /performance
+- /ticket/60/core-loop
+- /proof
+- /portfolio
