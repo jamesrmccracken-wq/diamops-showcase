@@ -1,0 +1,488 @@
+{
+  "exportId": "2026-05-27-1521-diamops-sentinel",
+  "generatedAt": "2026-05-27T15:23:34.389Z",
+  "sourceRunId": "sentinel-github-showcase-export-20260527T1025Z",
+  "status": "RELEASE_READY",
+  "scores": {
+    "routes": 100,
+    "ux": 100,
+    "mobile": 100,
+    "links": 100,
+    "auth": 100,
+    "security": 100,
+    "stripe": 90,
+    "workflows": 100,
+    "onboarding": 100,
+    "portfolio": 100,
+    "showcase": 100,
+    "telemetry": 100,
+    "overall": 99
+  },
+  "routeCount": 58,
+  "publicRouteCount": 56,
+  "screenshotCount": 56,
+  "stripe": {
+    "status": "configured-safe-not-fully-validated",
+    "testModeReady": false,
+    "liveKeysDetected": false,
+    "monthlyCheckout": "safe-fallback-pricing",
+    "yearlyCheckout": "safe-fallback-pricing",
+    "cancelFlow": "safe",
+    "billingPortal": "controlled-redirect",
+    "webhook": "pending-not-configured",
+    "limitations": [
+      "Stripe test-mode checkout is not fully configured",
+      "Stripe checkout validation limited by missing test-mode environment"
+    ]
+  },
+  "screenshots": [
+    {
+      "label": "Public landing",
+      "route": "/",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-public-landing-01.png",
+      "bytes": 256519
+    },
+    {
+      "label": "Pricing",
+      "route": "/pricing",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-pricing-02.png",
+      "bytes": 542168
+    },
+    {
+      "label": "Enterprise",
+      "route": "/enterprise",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-enterprise-03.png",
+      "bytes": 466448
+    },
+    {
+      "label": "Login",
+      "route": "/login",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-login-04.png",
+      "bytes": 290357
+    },
+    {
+      "label": "Signup",
+      "route": "/signup",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-signup-05.png",
+      "bytes": 58152
+    },
+    {
+      "label": "Learner dashboard",
+      "route": "/dashboard",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-learner-dashboard-06.png",
+      "bytes": 771200
+    },
+    {
+      "label": "Ticket queue",
+      "route": "/tickets",
+      "viewport": "desktop",
+      "category": "tickets",
+      "path": "screenshots/tickets/desktop-ticket-queue-07.png",
+      "bytes": 1100727
+    },
+    {
+      "label": "Proof exports",
+      "route": "/proof",
+      "viewport": "desktop",
+      "category": "proof",
+      "path": "screenshots/proof/desktop-proof-exports-08.png",
+      "bytes": 414443
+    },
+    {
+      "label": "Portfolio",
+      "route": "/portfolio",
+      "viewport": "desktop",
+      "category": "proof",
+      "path": "screenshots/proof/desktop-portfolio-09.png",
+      "bytes": 131029
+    },
+    {
+      "label": "Labs",
+      "route": "/labs",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-labs-10.png",
+      "bytes": 181632
+    },
+    {
+      "label": "Analytics",
+      "route": "/performance",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-analytics-11.png",
+      "bytes": 213352
+    },
+    {
+      "label": "Upgrade",
+      "route": "/upgrade",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-upgrade-12.png",
+      "bytes": 308884
+    },
+    {
+      "label": "Public landing",
+      "route": "/",
+      "viewport": "iphone-se",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-se-public-landing-13.png",
+      "bytes": 190456
+    },
+    {
+      "label": "Pricing",
+      "route": "/pricing",
+      "viewport": "iphone-se",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-se-pricing-14.png",
+      "bytes": 309856
+    },
+    {
+      "label": "Login",
+      "route": "/login",
+      "viewport": "iphone-se",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-se-login-15.png",
+      "bytes": 174673
+    },
+    {
+      "label": "Learner dashboard",
+      "route": "/dashboard",
+      "viewport": "iphone-se",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-se-learner-dashboard-16.png",
+      "bytes": 379790
+    },
+    {
+      "label": "Ticket queue",
+      "route": "/tickets",
+      "viewport": "iphone-se",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-se-ticket-queue-17.png",
+      "bytes": 1138199
+    },
+    {
+      "label": "Proof exports",
+      "route": "/proof",
+      "viewport": "iphone-se",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-se-proof-exports-18.png",
+      "bytes": 176760
+    },
+    {
+      "label": "Public landing",
+      "route": "/",
+      "viewport": "iphone-14",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-14-public-landing-19.png",
+      "bytes": 191205
+    },
+    {
+      "label": "Pricing",
+      "route": "/pricing",
+      "viewport": "iphone-14",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-14-pricing-20.png",
+      "bytes": 316001
+    },
+    {
+      "label": "Login",
+      "route": "/login",
+      "viewport": "iphone-14",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-14-login-21.png",
+      "bytes": 174772
+    },
+    {
+      "label": "Learner dashboard",
+      "route": "/dashboard",
+      "viewport": "iphone-14",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-14-learner-dashboard-22.png",
+      "bytes": 397237
+    },
+    {
+      "label": "Ticket queue",
+      "route": "/tickets",
+      "viewport": "iphone-14",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-14-ticket-queue-23.png",
+      "bytes": 1140441
+    },
+    {
+      "label": "Proof exports",
+      "route": "/proof",
+      "viewport": "iphone-14",
+      "category": "mobile",
+      "path": "screenshots/mobile/iphone-14-proof-exports-24.png",
+      "bytes": 186291
+    },
+    {
+      "label": "Public landing",
+      "route": "/",
+      "viewport": "pixel",
+      "category": "mobile",
+      "path": "screenshots/mobile/pixel-public-landing-25.png",
+      "bytes": 195078
+    },
+    {
+      "label": "Pricing",
+      "route": "/pricing",
+      "viewport": "pixel",
+      "category": "mobile",
+      "path": "screenshots/mobile/pixel-pricing-26.png",
+      "bytes": 312577
+    },
+    {
+      "label": "Login",
+      "route": "/login",
+      "viewport": "pixel",
+      "category": "mobile",
+      "path": "screenshots/mobile/pixel-login-27.png",
+      "bytes": 182739
+    },
+    {
+      "label": "Learner dashboard",
+      "route": "/dashboard",
+      "viewport": "pixel",
+      "category": "mobile",
+      "path": "screenshots/mobile/pixel-learner-dashboard-28.png",
+      "bytes": 410844
+    },
+    {
+      "label": "Ticket queue",
+      "route": "/tickets",
+      "viewport": "pixel",
+      "category": "mobile",
+      "path": "screenshots/mobile/pixel-ticket-queue-29.png",
+      "bytes": 1148078
+    },
+    {
+      "label": "Proof exports",
+      "route": "/proof",
+      "viewport": "pixel",
+      "category": "mobile",
+      "path": "screenshots/mobile/pixel-proof-exports-30.png",
+      "bytes": 195082
+    },
+    {
+      "label": "Public landing",
+      "route": "/",
+      "viewport": "ipad",
+      "category": "mobile",
+      "path": "screenshots/mobile/ipad-public-landing-31.png",
+      "bytes": 229179
+    },
+    {
+      "label": "Pricing",
+      "route": "/pricing",
+      "viewport": "ipad",
+      "category": "mobile",
+      "path": "screenshots/mobile/ipad-pricing-32.png",
+      "bytes": 365037
+    },
+    {
+      "label": "Login",
+      "route": "/login",
+      "viewport": "ipad",
+      "category": "mobile",
+      "path": "screenshots/mobile/ipad-login-33.png",
+      "bytes": 252979
+    },
+    {
+      "label": "Learner dashboard",
+      "route": "/dashboard",
+      "viewport": "ipad",
+      "category": "mobile",
+      "path": "screenshots/mobile/ipad-learner-dashboard-34.png",
+      "bytes": 566503
+    },
+    {
+      "label": "Ticket queue",
+      "route": "/tickets",
+      "viewport": "ipad",
+      "category": "mobile",
+      "path": "screenshots/mobile/ipad-ticket-queue-35.png",
+      "bytes": 1118854
+    },
+    {
+      "label": "Proof exports",
+      "route": "/proof",
+      "viewport": "ipad",
+      "category": "mobile",
+      "path": "screenshots/mobile/ipad-proof-exports-36.png",
+      "bytes": 317286
+    },
+    {
+      "label": "Public landing",
+      "route": "/",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-public-landing-37.png",
+      "bytes": 256519
+    },
+    {
+      "label": "Pricing",
+      "route": "/pricing",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-pricing-38.png",
+      "bytes": 542168
+    },
+    {
+      "label": "Login",
+      "route": "/login",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-login-39.png",
+      "bytes": 290357
+    },
+    {
+      "label": "Learner dashboard",
+      "route": "/dashboard",
+      "viewport": "desktop",
+      "category": "public",
+      "path": "screenshots/public/desktop-learner-dashboard-40.png",
+      "bytes": 773531
+    },
+    {
+      "label": "Ticket queue",
+      "route": "/tickets",
+      "viewport": "desktop",
+      "category": "tickets",
+      "path": "screenshots/tickets/desktop-ticket-queue-41.png",
+      "bytes": 1101043
+    },
+    {
+      "label": "Proof exports",
+      "route": "/proof",
+      "viewport": "desktop",
+      "category": "proof",
+      "path": "screenshots/proof/desktop-proof-exports-42.png",
+      "bytes": 414443
+    },
+    {
+      "label": "Public landing",
+      "route": "/",
+      "viewport": "ultrawide",
+      "category": "public",
+      "path": "screenshots/public/ultrawide-public-landing-43.png",
+      "bytes": 263064
+    },
+    {
+      "label": "Pricing",
+      "route": "/pricing",
+      "viewport": "ultrawide",
+      "category": "public",
+      "path": "screenshots/public/ultrawide-pricing-44.png",
+      "bytes": 560555
+    },
+    {
+      "label": "Login",
+      "route": "/login",
+      "viewport": "ultrawide",
+      "category": "public",
+      "path": "screenshots/public/ultrawide-login-45.png",
+      "bytes": 298593
+    },
+    {
+      "label": "Learner dashboard",
+      "route": "/dashboard",
+      "viewport": "ultrawide",
+      "category": "public",
+      "path": "screenshots/public/ultrawide-learner-dashboard-46.png",
+      "bytes": 805964
+    },
+    {
+      "label": "Ticket queue",
+      "route": "/tickets",
+      "viewport": "ultrawide",
+      "category": "tickets",
+      "path": "screenshots/tickets/ultrawide-ticket-queue-47.png",
+      "bytes": 1046871
+    },
+    {
+      "label": "Proof exports",
+      "route": "/proof",
+      "viewport": "ultrawide",
+      "category": "proof",
+      "path": "screenshots/proof/ultrawide-proof-exports-48.png",
+      "bytes": 497499
+    },
+    {
+      "label": "Guided ticket workspace before submission",
+      "route": "/ticket/60/core-loop",
+      "viewport": "desktop",
+      "category": "tickets",
+      "path": "screenshots/tickets/desktop-guided-ticket-workspace-befo-49.png",
+      "bytes": 342612
+    },
+    {
+      "label": "Completed ticket workflow",
+      "route": "/ticket/60/core-loop",
+      "viewport": "desktop",
+      "category": "tickets",
+      "path": "screenshots/tickets/desktop-completed-ticket-workflow-50.png",
+      "bytes": 285511
+    },
+    {
+      "label": "Post-workflow /proof",
+      "route": "/proof",
+      "viewport": "desktop",
+      "category": "tickets",
+      "path": "screenshots/tickets/desktop-post-workflow-proof-51.png",
+      "bytes": 429747
+    },
+    {
+      "label": "Post-workflow /portfolio",
+      "route": "/portfolio",
+      "viewport": "desktop",
+      "category": "tickets",
+      "path": "screenshots/tickets/desktop-post-workflow-portfolio-52.png",
+      "bytes": 131029
+    },
+    {
+      "label": "Stripe pricing surface",
+      "route": "/pricing",
+      "viewport": "desktop",
+      "category": "stripe",
+      "path": "screenshots/stripe/desktop-stripe-pricing-surface-53.png",
+      "bytes": 506674
+    },
+    {
+      "label": "Stripe monthly checkout",
+      "route": "/billing/checkout/pro?interval=monthly",
+      "viewport": "desktop",
+      "category": "stripe",
+      "path": "screenshots/stripe/desktop-stripe-monthly-checkout-54.png",
+      "bytes": 555054
+    },
+    {
+      "label": "Stripe yearly checkout",
+      "route": "/billing/checkout/pro?interval=annual",
+      "viewport": "desktop",
+      "category": "stripe",
+      "path": "screenshots/stripe/desktop-stripe-yearly-checkout-55.png",
+      "bytes": 555054
+    },
+    {
+      "label": "Stripe cancel flow",
+      "route": "/billing/cancel",
+      "viewport": "desktop",
+      "category": "stripe",
+      "path": "screenshots/stripe/desktop-stripe-cancel-flow-56.png",
+      "bytes": 117367
+    }
+  ]
+}
