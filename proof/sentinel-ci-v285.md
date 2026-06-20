@@ -44,4 +44,4 @@ Selector changes (private repo only, not reproduced here):
 ## Commit References
 
 - Private repo commit SHA: `0910d2c0e5c1fe4c7736c4cec949bbc0a5918d8d`
-- Public showcase commit SHA: `f29495ad33f6eeb083d51af000becbd17dda2e14`
+- Public showcase commit SHA: `40b9e3b32a39514cdffbaec05b369b69e60f4bde`
