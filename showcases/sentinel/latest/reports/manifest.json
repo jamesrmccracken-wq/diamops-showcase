@@ -1,7 +1,7 @@
 {
-  "exportId": "2026-07-24-2008-diamops-sentinel",
-  "generatedAt": "2026-07-24T20:09:56.029Z",
-  "sourceRunId": "sentinel-roadmap-20260724T200832Z-v1-v1",
+  "exportId": "2026-07-24-2016-diamops-sentinel",
+  "generatedAt": "2026-07-24T20:17:23.471Z",
+  "sourceRunId": "sentinel-roadmap-20260724T201607Z-v1-v1",
   "status": "RELEASE_READY",
   "scores": {
     "routes": 100,
@@ -54,7 +54,7 @@
       "viewport": "desktop",
       "category": "public",
       "path": "screenshots/public/desktop-public-landing-01.png",
-      "bytes": 653508
+      "bytes": 652907
     },
     {
       "label": "Pricing",
@@ -62,7 +62,7 @@
       "viewport": "desktop",
       "category": "public",
       "path": "screenshots/public/desktop-pricing-02.png",
-      "bytes": 492522
+      "bytes": 496240
     },
     {
       "label": "Enterprise",
@@ -70,7 +70,7 @@
       "viewport": "desktop",
       "category": "premium",
       "path": "screenshots/premium/desktop-enterprise-03.png",
-      "bytes": 353776
+      "bytes": 353159
     },
     {
       "label": "Login",
@@ -78,7 +78,7 @@
       "viewport": "desktop",
       "category": "public",
       "path": "screenshots/public/desktop-login-04.png",
-      "bytes": 422291
+      "bytes": 421665
     },
     {
       "label": "Signup",
@@ -86,7 +86,7 @@
       "viewport": "desktop",
       "category": "public",
       "path": "screenshots/public/desktop-signup-05.png",
-      "bytes": 454267
+      "bytes": 453653
     },
     {
       "label": "Learner dashboard",
@@ -94,7 +94,7 @@
       "viewport": "desktop",
       "category": "dashboard",
       "path": "screenshots/dashboard/desktop-learner-dashboard-06.png",
-      "bytes": 733615
+      "bytes": 733253
     },
     {
       "label": "Ticket queue",
@@ -102,7 +102,7 @@
       "viewport": "desktop",
       "category": "queue",
       "path": "screenshots/queue/desktop-ticket-queue-07.png",
-      "bytes": 386337
+      "bytes": 386434
     },
     {
       "label": "Proof exports",
@@ -110,7 +110,7 @@
       "viewport": "desktop",
       "category": "proof",
       "path": "screenshots/proof/desktop-proof-exports-08.png",
-      "bytes": 614671
+      "bytes": 623863
     },
     {
       "label": "Portfolio",
@@ -118,7 +118,7 @@
       "viewport": "desktop",
       "category": "proof",
       "path": "screenshots/proof/desktop-portfolio-09.png",
-      "bytes": 142380
+      "bytes": 126171
     },
     {
       "label": "Labs",
@@ -126,7 +126,7 @@
       "viewport": "desktop",
       "category": "labs",
       "path": "screenshots/labs/desktop-labs-10.png",
-      "bytes": 373402
+      "bytes": 376797
     },
     {
       "label": "Analytics",
@@ -142,7 +142,7 @@
       "viewport": "iphone-se",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-se-public-landing-12.png",
-      "bytes": 535918
+      "bytes": 535548
     },
     {
       "label": "Pricing",
@@ -150,7 +150,7 @@
       "viewport": "iphone-se",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-se-pricing-13.png",
-      "bytes": 381341
+      "bytes": 381640
     },
     {
       "label": "Login",
@@ -158,7 +158,7 @@
       "viewport": "iphone-se",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-se-login-14.png",
-      "bytes": 249228
+      "bytes": 249044
     },
     {
       "label": "Learner dashboard",
@@ -166,7 +166,7 @@
       "viewport": "iphone-se",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-se-learner-dashboard-15.png",
-      "bytes": 584452
+      "bytes": 581854
     },
     {
       "label": "Ticket queue",
@@ -174,7 +174,7 @@
       "viewport": "iphone-se",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-se-ticket-queue-16.png",
-      "bytes": 633495
+      "bytes": 633120
     },
     {
       "label": "Proof exports",
@@ -190,7 +190,7 @@
       "viewport": "iphone-14",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-14-public-landing-18.png",
-      "bytes": 559103
+      "bytes": 558974
     },
     {
       "label": "Pricing",
@@ -198,7 +198,7 @@
       "viewport": "iphone-14",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-14-pricing-19.png",
-      "bytes": 385559
+      "bytes": 388073
     },
     {
       "label": "Login",
@@ -206,7 +206,7 @@
       "viewport": "iphone-14",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-14-login-20.png",
-      "bytes": 255031
+      "bytes": 254900
     },
     {
       "label": "Learner dashboard",
@@ -214,7 +214,7 @@
       "viewport": "iphone-14",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-14-learner-dashboard-21.png",
-      "bytes": 579561
+      "bytes": 579078
     },
     {
       "label": "Ticket queue",
@@ -222,7 +222,7 @@
       "viewport": "iphone-14",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-14-ticket-queue-22.png",
-      "bytes": 634254
+      "bytes": 634218
     },
     {
       "label": "Proof exports",
@@ -238,7 +238,7 @@
       "viewport": "pixel",
       "category": "mobile",
       "path": "screenshots/mobile/pixel-public-landing-24.png",
-      "bytes": 571396
+      "bytes": 570855
     },
     {
       "label": "Pricing",
@@ -246,7 +246,7 @@
       "viewport": "pixel",
       "category": "mobile",
       "path": "screenshots/mobile/pixel-pricing-25.png",
-      "bytes": 385686
+      "bytes": 389212
     },
     {
       "label": "Login",
@@ -254,7 +254,7 @@
       "viewport": "pixel",
       "category": "mobile",
       "path": "screenshots/mobile/pixel-login-26.png",
-      "bytes": 250672
+      "bytes": 250457
     },
     {
       "label": "Learner dashboard",
@@ -262,7 +262,7 @@
       "viewport": "pixel",
       "category": "mobile",
       "path": "screenshots/mobile/pixel-learner-dashboard-27.png",
-      "bytes": 575077
+      "bytes": 574755
     },
     {
       "label": "Ticket queue",
@@ -270,7 +270,7 @@
       "viewport": "pixel",
       "category": "mobile",
       "path": "screenshots/mobile/pixel-ticket-queue-28.png",
-      "bytes": 639791
+      "bytes": 639935
     },
     {
       "label": "Proof exports",
@@ -286,7 +286,7 @@
       "viewport": "ipad",
       "category": "mobile",
       "path": "screenshots/mobile/ipad-public-landing-30.png",
-      "bytes": 622615
+      "bytes": 622119
     },
     {
       "label": "Pricing",
@@ -294,7 +294,7 @@
       "viewport": "ipad",
       "category": "mobile",
       "path": "screenshots/mobile/ipad-pricing-31.png",
-      "bytes": 489648
+      "bytes": 495331
     },
     {
       "label": "Login",
@@ -302,7 +302,7 @@
       "viewport": "ipad",
       "category": "mobile",
       "path": "screenshots/mobile/ipad-login-32.png",
-      "bytes": 359407
+      "bytes": 358848
     },
     {
       "label": "Learner dashboard",
@@ -310,7 +310,7 @@
       "viewport": "ipad",
       "category": "mobile",
       "path": "screenshots/mobile/ipad-learner-dashboard-33.png",
-      "bytes": 692984
+      "bytes": 693425
     },
     {
       "label": "Ticket queue",
@@ -318,7 +318,7 @@
       "viewport": "ipad",
       "category": "mobile",
       "path": "screenshots/mobile/ipad-ticket-queue-34.png",
-      "bytes": 506113
+      "bytes": 510231
     },
     {
       "label": "Proof exports",
@@ -326,7 +326,7 @@
       "viewport": "ipad",
       "category": "mobile",
       "path": "screenshots/mobile/ipad-proof-exports-35.png",
-      "bytes": 509155
+      "bytes": 509413
     },
     {
       "label": "Public landing",
@@ -334,7 +334,7 @@
       "viewport": "desktop",
       "category": "public",
       "path": "screenshots/public/desktop-public-landing-36.png",
-      "bytes": 653508
+      "bytes": 652907
     },
     {
       "label": "Pricing",
@@ -342,7 +342,7 @@
       "viewport": "desktop",
       "category": "public",
       "path": "screenshots/public/desktop-pricing-37.png",
-      "bytes": 492522
+      "bytes": 496240
     },
     {
       "label": "Login",
@@ -350,7 +350,7 @@
       "viewport": "desktop",
       "category": "public",
       "path": "screenshots/public/desktop-login-38.png",
-      "bytes": 422291
+      "bytes": 421665
     },
     {
       "label": "Learner dashboard",
@@ -358,7 +358,7 @@
       "viewport": "desktop",
       "category": "dashboard",
       "path": "screenshots/dashboard/desktop-learner-dashboard-39.png",
-      "bytes": 732429
+      "bytes": 754827
     },
     {
       "label": "Ticket queue",
@@ -366,7 +366,7 @@
       "viewport": "desktop",
       "category": "queue",
       "path": "screenshots/queue/desktop-ticket-queue-40.png",
-      "bytes": 403767
+      "bytes": 385096
     },
     {
       "label": "Proof exports",
@@ -374,7 +374,7 @@
       "viewport": "desktop",
       "category": "proof",
       "path": "screenshots/proof/desktop-proof-exports-41.png",
-      "bytes": 621792
+      "bytes": 621842
     },
     {
       "label": "Public landing",
@@ -382,7 +382,7 @@
       "viewport": "ultrawide",
       "category": "public",
       "path": "screenshots/public/ultrawide-public-landing-42.png",
-      "bytes": 750931
+      "bytes": 750331
     },
     {
       "label": "Pricing",
@@ -390,7 +390,7 @@
       "viewport": "ultrawide",
       "category": "public",
       "path": "screenshots/public/ultrawide-pricing-43.png",
-      "bytes": 553739
+      "bytes": 557889
     },
     {
       "label": "Login",
@@ -398,7 +398,7 @@
       "viewport": "ultrawide",
       "category": "public",
       "path": "screenshots/public/ultrawide-login-44.png",
-      "bytes": 500742
+      "bytes": 499998
     },
     {
       "label": "Learner dashboard",
@@ -406,7 +406,7 @@
       "viewport": "ultrawide",
       "category": "dashboard",
       "path": "screenshots/dashboard/ultrawide-learner-dashboard-45.png",
-      "bytes": 756992
+      "bytes": 757434
     },
     {
       "label": "Ticket queue",
@@ -414,7 +414,7 @@
       "viewport": "ultrawide",
       "category": "queue",
       "path": "screenshots/queue/ultrawide-ticket-queue-46.png",
-      "bytes": 444709
+      "bytes": 430538
     },
     {
       "label": "Proof exports",
@@ -422,7 +422,7 @@
       "viewport": "ultrawide",
       "category": "proof",
       "path": "screenshots/proof/ultrawide-proof-exports-47.png",
-      "bytes": 612803
+      "bytes": 610335
     }
   ],
   "curatedCategories": {
