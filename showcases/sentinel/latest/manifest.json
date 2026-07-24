@@ -1,11 +1,11 @@
 {
-  "exportId": "2026-07-24-2016-diamops-sentinel",
-  "generatedAt": "2026-07-24T20:17:23.471Z",
-  "sourceRunId": "sentinel-roadmap-20260724T201607Z-v1-v1",
+  "exportId": "2026-07-24-2021-diamops-sentinel",
+  "generatedAt": "2026-07-24T20:23:12.849Z",
+  "sourceRunId": "sentinel-roadmap-20260724T202144Z-v1-v1",
   "status": "RELEASE_READY",
   "scores": {
     "routes": 100,
-    "ux": 70,
+    "ux": 80,
     "mobile": 100,
     "links": 100,
     "auth": 100,
@@ -94,7 +94,7 @@
       "viewport": "desktop",
       "category": "dashboard",
       "path": "screenshots/dashboard/desktop-learner-dashboard-06.png",
-      "bytes": 733253
+      "bytes": 732737
     },
     {
       "label": "Ticket queue",
@@ -102,7 +102,7 @@
       "viewport": "desktop",
       "category": "queue",
       "path": "screenshots/queue/desktop-ticket-queue-07.png",
-      "bytes": 386434
+      "bytes": 386231
     },
     {
       "label": "Proof exports",
@@ -110,7 +110,7 @@
       "viewport": "desktop",
       "category": "proof",
       "path": "screenshots/proof/desktop-proof-exports-08.png",
-      "bytes": 623863
+      "bytes": 604382
     },
     {
       "label": "Portfolio",
@@ -118,7 +118,7 @@
       "viewport": "desktop",
       "category": "proof",
       "path": "screenshots/proof/desktop-portfolio-09.png",
-      "bytes": 126171
+      "bytes": 142380
     },
     {
       "label": "Labs",
@@ -126,7 +126,7 @@
       "viewport": "desktop",
       "category": "labs",
       "path": "screenshots/labs/desktop-labs-10.png",
-      "bytes": 376797
+      "bytes": 373649
     },
     {
       "label": "Analytics",
@@ -166,7 +166,7 @@
       "viewport": "iphone-se",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-se-learner-dashboard-15.png",
-      "bytes": 581854
+      "bytes": 584382
     },
     {
       "label": "Ticket queue",
@@ -174,7 +174,7 @@
       "viewport": "iphone-se",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-se-ticket-queue-16.png",
-      "bytes": 633120
+      "bytes": 634167
     },
     {
       "label": "Proof exports",
@@ -214,7 +214,7 @@
       "viewport": "iphone-14",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-14-learner-dashboard-21.png",
-      "bytes": 579078
+      "bytes": 578917
     },
     {
       "label": "Ticket queue",
@@ -222,7 +222,7 @@
       "viewport": "iphone-14",
       "category": "mobile",
       "path": "screenshots/mobile/iphone-14-ticket-queue-22.png",
-      "bytes": 634218
+      "bytes": 634479
     },
     {
       "label": "Proof exports",
@@ -262,7 +262,7 @@
       "viewport": "pixel",
       "category": "mobile",
       "path": "screenshots/mobile/pixel-learner-dashboard-27.png",
-      "bytes": 574755
+      "bytes": 574467
     },
     {
       "label": "Ticket queue",
@@ -270,7 +270,7 @@
       "viewport": "pixel",
       "category": "mobile",
       "path": "screenshots/mobile/pixel-ticket-queue-28.png",
-      "bytes": 639935
+      "bytes": 639937
     },
     {
       "label": "Proof exports",
@@ -310,7 +310,7 @@
       "viewport": "ipad",
       "category": "mobile",
       "path": "screenshots/mobile/ipad-learner-dashboard-33.png",
-      "bytes": 693425
+      "bytes": 694175
     },
     {
       "label": "Ticket queue",
@@ -318,7 +318,7 @@
       "viewport": "ipad",
       "category": "mobile",
       "path": "screenshots/mobile/ipad-ticket-queue-34.png",
-      "bytes": 510231
+      "bytes": 507629
     },
     {
       "label": "Proof exports",
@@ -326,7 +326,7 @@
       "viewport": "ipad",
       "category": "mobile",
       "path": "screenshots/mobile/ipad-proof-exports-35.png",
-      "bytes": 509413
+      "bytes": 508561
     },
     {
       "label": "Public landing",
@@ -358,7 +358,7 @@
       "viewport": "desktop",
       "category": "dashboard",
       "path": "screenshots/dashboard/desktop-learner-dashboard-39.png",
-      "bytes": 754827
+      "bytes": 755641
     },
     {
       "label": "Ticket queue",
@@ -366,7 +366,7 @@
       "viewport": "desktop",
       "category": "queue",
       "path": "screenshots/queue/desktop-ticket-queue-40.png",
-      "bytes": 385096
+      "bytes": 384868
     },
     {
       "label": "Proof exports",
@@ -374,7 +374,7 @@
       "viewport": "desktop",
       "category": "proof",
       "path": "screenshots/proof/desktop-proof-exports-41.png",
-      "bytes": 621842
+      "bytes": 620822
     },
     {
       "label": "Public landing",
@@ -406,7 +406,7 @@
       "viewport": "ultrawide",
       "category": "dashboard",
       "path": "screenshots/dashboard/ultrawide-learner-dashboard-45.png",
-      "bytes": 757434
+      "bytes": 756431
     },
     {
       "label": "Ticket queue",
@@ -414,7 +414,7 @@
       "viewport": "ultrawide",
       "category": "queue",
       "path": "screenshots/queue/ultrawide-ticket-queue-46.png",
-      "bytes": 430538
+      "bytes": 452957
     },
     {
       "label": "Proof exports",
@@ -422,7 +422,7 @@
       "viewport": "ultrawide",
       "category": "proof",
       "path": "screenshots/proof/ultrawide-proof-exports-47.png",
-      "bytes": 610335
+      "bytes": 612598
     }
   ],
   "curatedCategories": {

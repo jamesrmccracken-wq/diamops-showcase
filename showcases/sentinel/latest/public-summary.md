@@ -1,6 +1,6 @@
 # Public Summary
 
-Sentinel run: sentinel-roadmap-20260724T201607Z-v1-v1
+Sentinel run: sentinel-roadmap-20260724T202144Z-v1-v1
 Status: RELEASE_READY
 Overall score: 98
 Routes checked: 55
