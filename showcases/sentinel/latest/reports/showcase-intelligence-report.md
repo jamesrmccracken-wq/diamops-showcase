@@ -1,7 +1,7 @@
 # DiamOps Showcase Intelligence Report
 
-Generated: 2026-07-24T20:23:12.850Z
-Sentinel run: sentinel-roadmap-20260724T202144Z-v1-v1
+Generated: 2026-08-01T22:47:40.766Z
+Sentinel run: sentinel-roadmap-20260801T224613Z-v1-v1
 Platform status: RELEASE_READY
 
 ---
